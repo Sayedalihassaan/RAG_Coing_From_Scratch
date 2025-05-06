@@ -1,5 +1,3 @@
-
-```markdown
 # 🧠 Retrieval-Augmented Generation (RAG) from Scratch
 
 This project demonstrates a **from-scratch implementation of Retrieval-Augmented Generation (RAG)** — a powerful technique that combines **information retrieval** and **natural language generation** to produce accurate and context-aware responses. It is inspired by the architecture used in advanced language models such as GPT and BERT-based retrievers.
